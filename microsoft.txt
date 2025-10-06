@@ -46,3 +46,4 @@ server-108-157-229-112.arn56.r.cloudfront.net
 le-in-f157.1e100.net
 lf-in-f148.1e100.net
 neoforged.net
+maven.neoforged.net
